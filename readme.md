@@ -6,6 +6,4 @@ Software for configuring DIN-RY family of products.
 
 ### Releases
 
-- [Windows 32bit Installer - v0.6.2](DIN-RY Config/CommandFusion DIN-RY Config Setup 0.6.2 - win32.exe?raw=true)
-- [Windows 64bit Installer - v0.6.2](DIN-RY Config/CommandFusion DIN-RY Config Setup 0.6.2 - win64.exe?raw=true)
-- [Mac OS X Image - v0.6.2](DIN-RY Config/CommandFusion DIN-RY Config-0.6.2.dmg?raw=true)
+- [Windows Installer - v0.10.3](https://github.com/CommandFusion/Software/raw/master/DIN-RY%20Config/CommandFusion.DIN-RY.Config.Setup.0.10.3.exe)
