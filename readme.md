@@ -6,10 +6,10 @@ Software for configuring DIN-RY family of products.
 
 ### Current Releases
 
-- [Windows Installer - v0.13.1](https://commandfusion.com/download/CommandFusion.DIN-RY.Config.Setup.0.13.1.exe)
+- [Windows Installer - v0.13.2](https://commandfusion.com/download/CommandFusion.DIN-RY.Config.Setup.0.13.2.exe)
 
-- [Mac Installer - v0.13.1](https://commandfusion.com/download/CommandFusion.DIN-RY.Config-0.13.1.dmg)
-- [Mac Zip - v0.13.1](https://commandfusion.com/download/CommandFusion.DIN-RY.Config-0.13.1-mac.zip)
+- [Mac Installer - v0.13.2](https://commandfusion.com/download/CommandFusion.DIN-RY.Config-0.13.2.dmg)
+- [Mac Zip - v0.13.2](https://commandfusion.com/download/CommandFusion.DIN-RY.Config-0.13.2-mac.zip)
 
 #### Old Releases
 
